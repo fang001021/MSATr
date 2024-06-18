@@ -1,5 +1,5 @@
 # MSATr:Multi-scale Attention Transformer 
-This is python implementation for the paper "A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss", which is under review in the journal The Visual Computer. 
+This is python implementation for the paper "A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss", which has been accepted in the journal "The Visual Computer". 
 We have uploaded codes, datasets and all the test results for reference. 
 # Method 
 The overall structure of the model is shown below: 
